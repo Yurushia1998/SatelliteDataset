@@ -1,0 +1,2 @@
+# SatelliteDataset
+A satellite dataset for object detection and segmentation using both synthesis and real satellite images
